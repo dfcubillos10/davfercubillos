@@ -5,10 +5,8 @@
 - [Imagine](https://imagine.uniandes.edu.co/)
 
   Imagine site's legacy, partners, and seminars tabs were developed by me, I also added new projects and updated information on the rest of the site.
-  
-  <p align="center">
-  <img src="/img/imagine.jpg">
-  </p>
+   
+  ![](img/imagine.jpg)
   
 The following websites were developed by me from scratch with the intention to rescue as many resources as possible from their last iteration, which had no maintenance on the previous 5 years:
 
@@ -39,9 +37,7 @@ The following websites were developed by me from scratch with the intention to r
 
   I made constant direct communication with every participant via Discord in order to ensure all of them had a group, gave them access to accounts of different technologies such as Twilio and helped them to get a head start on each of them. I also made different media elements for the competition and ensured that all of the competition's rules were followed.
 
-  <p align="center">
-  <img src="/img/hackathon.PNG">
-  </p>
+  ![](img/hackathon.PNG)
 
 I had complete control over the following forums, where i solved student's doubts, helped grading their peer reviews, and upgraded course metrics regarding weekly work time, session goals, and others:
 
