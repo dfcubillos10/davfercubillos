@@ -5,7 +5,11 @@
 - [Imagine](https://imagine.uniandes.edu.co/)
 
   Imagine site's legacy, partners, and seminars tabs were developed by me, I also added new projects and updated information on the rest of the site.
-   
+  
+  <p align="center">
+  <img src="/img/imagine.jpg">
+  </p>
+  
   ![](img/imagine.jpg)
   
 The following websites were developed by me from scratch with the intention to rescue as many resources as possible from their last iteration, which had no maintenance on the previous 5 years:
