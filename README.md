@@ -6,7 +6,7 @@
 
   Imagine site's legacy, partners, and seminars tabs were developed by me, I also added new projects and updated information on the rest of the site.
   ```markdown
-  ![](img/imagine.jpg)
+  ![](/img/imagine.jpg)
   ```
   
   ![](img/imagine.jpg)
