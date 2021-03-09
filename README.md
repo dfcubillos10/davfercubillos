@@ -8,7 +8,9 @@
   ```markdown
   ![](img/imagine.jpg)
   ```
-    
+  
+  ![](img/imagine.jpg)
+  
 The following websites were developed by me from scratch with the intention to rescue as many resources as possible from their last iteration, which had no maintenance on the previous 5 years:
 
 - [JuegaLibre](https://juegalibre.virtual.uniandes.edu.co/) 
