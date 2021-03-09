@@ -10,8 +10,6 @@
   <img src="/img/imagine.jpg">
   </p>
   
-  ![](img/imagine.jpg)
-  
 The following websites were developed by me from scratch with the intention to rescue as many resources as possible from their last iteration, which had no maintenance on the previous 5 years:
 
 - [JuegaLibre](https://juegalibre.virtual.uniandes.edu.co/) 
@@ -41,8 +39,9 @@ The following websites were developed by me from scratch with the intention to r
 
   I made constant direct communication with every participant via Discord in order to ensure all of them had a group, gave them access to accounts of different technologies such as Twilio and helped them to get a head start on each of them. I also made different media elements for the competition and ensured that all of the competition's rules were followed.
 
-  ![](img/hackathon.PNG)
-
+  <p align="center">
+  <img src="/img/hackathon.PNG">
+  </p>
 
 I had complete control over the following forums, where i solved student's doubts, helped grading their peer reviews, and upgraded course metrics regarding weekly work time, session goals, and others:
 
