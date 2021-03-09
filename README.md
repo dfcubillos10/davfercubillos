@@ -63,7 +63,7 @@ I had complete control over the following forums, where i solved student's doubt
 
   ![](img/videojuegosAgiles.PNG)
 
-### Events and community management
+### Custom Software
 
 - [Cocura](https://www.youtube.com/watch?v=Z3pk4G4yuco&ab_channel=CubxOW) 
 
