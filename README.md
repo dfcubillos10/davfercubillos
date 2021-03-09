@@ -65,19 +65,19 @@ I had complete control over the following forums, where i solved student's doubt
 
   - [Desarrollo de Videojuegos en Unity: Una Introducción](https://www.coursera.org/learn/desarrollo-videojuegos-unity/home/welcome) 
 
-```markdown
+  ```markdown
   ![videojuegos 2d](https://user-images.githubusercontent.com/13544165/110533862-6e885e00-80ec-11eb-92f3-da248b0ed8f2.PNG)
   ```
   
   - [Desarrollo y Diseño de Videojuegos: Proyecto Final](https://www.coursera.org/learn/proyecto-desarrollo-videojuegos/home/welcome) 
 
-```markdown
+  ```markdown
   ![videojuegos proyecto final](https://user-images.githubusercontent.com/13544165/110533871-6f20f480-80ec-11eb-95bf-5fd22b3794d0.PNG)
   ```
 
   - [Diseño de Videojuegos: Una Introducción](https://www.coursera.org/learn/diseno-videojuegos-intro/home/welcome) 
 
-```markdown
+  ```markdown
   ![videojuegos design](https://user-images.githubusercontent.com/13544165/110533869-6f20f480-80ec-11eb-944a-782e37488902.PNG)
   ```
 
@@ -89,19 +89,19 @@ I had complete control over the following forums, where i solved student's doubt
 
 ### Events and community management
 
-- [Cocura](https://www.coursera.org/learn/videojuegos-emprendimiento/home/welcome) 
+- [Cocura](https://www.youtube.com/watch?v=Z3pk4G4yuco&ab_channel=CubxOW) 
 
   A way to connect users without smartphones or computers to the internet, connecting calls with the Twilio API with web services.  
   
-```markdown
+  ```markdown
   ![cocura](https://user-images.githubusercontent.com/13544165/110534378-00906680-80ed-11eb-9003-e20be1c6548d.PNG)
   ```
   
-- [3DGameCoursera](https://www.coursera.org/learn/videojuegos-emprendimiento/home/welcome) 
+- [3DGameCoursera](https://github.com/dfcubillos10/3DGameCoursera) 
 
   Swapped versions from the Unity Project that serves as Demo of the Cousera course "Desarrollo de Videojuegos 3D en Unity: Una Introducción" from 2015 to 2020 and solved compatibility issues.
 
-```markdown
+  ```markdown
   ![3d](https://user-images.githubusercontent.com/13544165/110534384-01c19380-80ed-11eb-9d4d-b6bb7fbf528a.PNG)
   ```
 
